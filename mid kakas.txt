@@ -1,0 +1,7 @@
+1. buat sebuah project laravel dengan format mid_nama
+2. masukkan file yg telah dibuat kedalam soyrctree
+3.silahkan lakukakn perinth push dan commit dengan nama commit nim_nama_kelas
+4. silahkan lakuakan perintah pull dengan nama folder nama_nim_clon
+5. setelah melakukan pull silhkan ubah salah satu file kemudian commit kembali denngan nmaa commit temt tgl lahir
+6. diptojecttersebut silahkan buat file dengan soal pengertian control sistem dan sebutan 5
+7. selamat mengerjakan
